@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rionitinkumar
+- 👀 I’m interested in Data Enginerring, Automation and Cloud
+- 📫 How to reach me  itin.kumar@riotinto.com
