@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rionitinkumar
-- 👀 I’m interested in Data Enginerring, Automation and Cloud
+- 👀 I’m interested in Data Engineering, Automation and Cloud
 - 📫 How to reach me nitin.kumar@riotinto.com
 - Personal GitHub - @nitinkumartech
